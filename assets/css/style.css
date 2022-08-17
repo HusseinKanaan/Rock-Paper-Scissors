@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700");
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:300,500');
+
+html {
+    box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #122a33;
+    color: #fff;
+    font-family: "Roboto", sans-serif;
+}
+
+code {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 12px;
+}
+
+a {
+    font-family: 'Source Code Pro', monospace;
+    color: #ffcc99;
+}
+
+a:hover {
+    color: #ffba76;
+}
